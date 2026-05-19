@@ -1,0 +1,6 @@
+{
+  "name": "adversarial-review",
+  "version": "0.1.0",
+  "description": "Multi-agent adversarial code review (Claude Code + pi): parallel reviewers challenged by adversarial agents, then synthesized findings presented one by one",
+  "skills": "./skills/"
+}

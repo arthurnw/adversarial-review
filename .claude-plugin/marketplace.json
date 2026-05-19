@@ -1,0 +1,18 @@
+{
+  "name": "adversarial-review",
+  "owner": {
+    "name": "arthurnw"
+  },
+  "metadata": {
+    "description": "Multi-agent adversarial code review with parallel reviewers and challengers"
+  },
+  "plugins": [
+    {
+      "name": "adversarial-review",
+      "source": "./",
+      "description": "Multi-agent adversarial code review. Only invoked manually via /adversarial-review.",
+      "version": "0.1.0",
+      "keywords": ["code-review", "adversarial", "security", "quality"]
+    }
+  ]
+}
