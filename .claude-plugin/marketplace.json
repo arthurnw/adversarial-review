@@ -4,15 +4,15 @@
     "name": "arthurnw"
   },
   "metadata": {
-    "description": "Multi-agent adversarial code review with parallel reviewers and challengers"
+    "description": "Multi-agent adversarial review for code and tests, with parallel reviewers and challengers"
   },
   "plugins": [
     {
       "name": "adversarial-review",
       "source": "./",
-      "description": "Multi-agent adversarial code review. Only invoked manually via /adversarial-review.",
+      "description": "Multi-agent adversarial review. Invoked manually via /adversarial-review (code) and /adversarial-test-review (tests).",
       "version": "0.1.0",
-      "keywords": ["code-review", "adversarial", "security", "quality"]
+      "keywords": ["code-review", "test-review", "adversarial", "security", "quality"]
     }
   ]
 }

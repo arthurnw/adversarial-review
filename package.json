@@ -1,8 +1,8 @@
 {
   "name": "adversarial-review",
   "version": "0.1.0",
-  "description": "Multi-agent adversarial code review: parallel reviewers challenged by adversarial agents, then synthesized findings presented one by one. Works in Claude Code (as a plugin) and in pi (as a package).",
-  "keywords": ["pi-package", "claude-code-plugin", "code-review", "adversarial", "security", "quality"],
+  "description": "Multi-agent adversarial review for code and tests: parallel reviewers challenged by adversarial agents, then synthesized findings presented one by one. Works in Claude Code (as a plugin) and in pi (as a package).",
+  "keywords": ["pi-package", "claude-code-plugin", "code-review", "test-review", "adversarial", "security", "quality"],
   "author": "arthurnw",
   "license": "MIT",
   "pi": {
